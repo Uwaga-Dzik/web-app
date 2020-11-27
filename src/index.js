@@ -3,6 +3,7 @@ import ReactDOM from "react-dom";
 import Index from "./views/Index";
 import reportWebVitals from "./reportWebVitals";
 import { Normalize } from "styled-normalize";
+import "./fontello/css/fontello.css";
 
 ReactDOM.render(
   <React.StrictMode>

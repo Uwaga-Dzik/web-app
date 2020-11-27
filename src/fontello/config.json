@@ -1,0 +1,58 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "9dd9e835aebe1060ba7190ad2b2ed951",
+      "css": "search",
+      "code": 59392,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "5211af474d3a9848f67f945e2ccaf143",
+      "css": "cancel",
+      "code": 59393,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "22cfc7af2c4f158b37317c65c92b48c2",
+      "css": "location",
+      "code": 59396,
+      "src": "elusive"
+    },
+    {
+      "uid": "9bc2902722abb366a213a052ade360bc",
+      "css": "loader",
+      "code": 59449,
+      "src": "fontelico"
+    },
+    {
+      "uid": "e99461abfef3923546da8d745372c995",
+      "css": "settings",
+      "code": 59394,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "ce3cf091d6ebd004dd0b52d24074e6e3",
+      "css": "help",
+      "code": 61736,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "03df30a09d260eb427edcd7a65c1a84c",
+      "css": "numbers",
+      "code": 59395,
+      "src": "typicons"
+    },
+    {
+      "uid": "d35a1d35efeb784d1dc9ac18b9b6c2b6",
+      "css": "edit",
+      "code": 59397,
+      "src": "fontawesome"
+    }
+  ]
+}
